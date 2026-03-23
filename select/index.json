@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "V.I.P",
+  "base_artist": "eyden",
+  "createdAt": "2026-03-23T07:06:25.380954Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "V.I.P.",
+      "artist": "Sinéad O'Connor",
+      "has_synced": true,
+      "path": "select/01_V.I.P._Sinéad_O'Connor.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Magnets (Disclosure V.I.P.)",
+      "artist": "Disclosure feat. Lorde",
+      "has_synced": true,
+      "path": "select/02_Magnets_(Disclosure_V.I.P.)_Disclosure_feat._Lorde.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "V.I.P.",
+      "artist": "R. Kelly",
+      "has_synced": true,
+      "path": "select/03_V.I.P._R._Kelly.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "V.I.P.",
+      "artist": "Iggy Pop",
+      "has_synced": false,
+      "path": "select/04_V.I.P._Iggy_Pop.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "V.I.P.",
+      "artist": "Ugly Kid Joe",
+      "has_synced": true,
+      "path": "select/05_V.I.P._Ugly_Kid_Joe.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "V.I.P.",
+      "artist": "Kumi Koda feat. T-Pain",
+      "has_synced": false,
+      "path": "select/06_V.I.P._Kumi_Koda_feat._T-Pain.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "V.I.P.",
+      "artist": "KODA KUMI feat. T-Pain",
+      "has_synced": false,
+      "path": "select/07_V.I.P._KODA_KUMI_feat._T-Pain.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "V.I.P.",
+      "artist": "Kumi Koda",
+      "has_synced": false,
+      "path": "select/08_V.I.P._Kumi_Koda.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "V.I.P.",
+      "artist": "Koda Kumi",
+      "has_synced": false,
+      "path": "select/09_V.I.P._Koda_Kumi.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Fatalrhyme V.I.P.",
+      "artist": "Ceza",
+      "has_synced": false,
+      "path": "select/10_Fatalrhyme_V.I.P._Ceza.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "V.I.P. In Hell",
+      "artist": "Kissin' Dynamite",
+      "has_synced": false,
+      "path": "select/11_V.I.P._In_Hell_Kissin'_Dynamite.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "V.I.P.",
+      "artist": "Jungle Brothers",
+      "has_synced": false,
+      "path": "select/12_V.I.P._Jungle_Brothers.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Damn You Look Good and I'm Drunk (Scandalous) [feat. V.I.P.]",
+      "artist": "Cobra Starship",
+      "has_synced": false,
+      "path": "select/13_Damn_You_Look_Good_and_I'm_Drunk_(Scandalous)_[feat._V.I.P.]_Cobra_Starship.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Damn You Look Good And I'm Drunk (Scandalous) (feat. V.I.P)",
+      "artist": "Cobra Starship",
+      "has_synced": false,
+      "path": "select/14_Damn_You_Look_Good_And_I'm_Drunk_(Scandalous)_(feat._V.I.P)_Cobra_Starship.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "V.I.P.",
+      "artist": "Teen Suicide",
+      "has_synced": true,
+      "path": "select/15_V.I.P._Teen_Suicide.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "V.I.P",
+      "artist": "SpaceGhostPurrp",
+      "has_synced": false,
+      "path": "select/16_V.I.P_SpaceGhostPurrp.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "V.I.P.",
+      "artist": "Françoise Hardy",
+      "has_synced": true,
+      "path": "select/17_V.I.P._Françoise_Hardy.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "A V.I.P. (Ich bin wie du)",
+      "artist": "Marianne Rosenberg",
+      "has_synced": false,
+      "path": "select/18_A_V.I.P._(Ich_bin_wie_du)_Marianne_Rosenberg.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "V.I.P",
+      "artist": "eyden",
+      "has_synced": false,
+      "path": "select/pl_01_V.I.P_eyden.txt"
+    }
+  ]
+}
